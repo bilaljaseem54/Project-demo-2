@@ -1,1 +1,1 @@
-alert{hello word}
+alert("how are you")
